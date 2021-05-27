@@ -1,3 +1,4 @@
 # Information-retrieval
-Branch master - spellchecker and antispam classification
-Branch index - boolean index from lenta topics
+1. Branch master - spellchecker and antispam classification.
+
+2. Branch index - boolean index from lenta topics
